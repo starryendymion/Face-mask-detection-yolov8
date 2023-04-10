@@ -1,0 +1,5 @@
+train : C:\Users\Divye joshi\Python Programming\Jupyter notebooks\Yolo stuff\Mask detection\Source code\train
+val :  C:\Users\Divye joshi\Python Programming\Jupyter notebooks\Yolo stuff\Mask detection\Source code\val
+
+nc : 2
+names : ['no-mask','mask']
