@@ -8,8 +8,7 @@ Intructions : To start capturing, run the file 'runmodel.py'.
               To stop, press Q .
               Please maintain a distance of at least 1 m from the webcam for proper prediction.
               
-Source code :  Dataset is NOT included in the code. Train and Val folders are empty. Note that the file paths in data_locations.yaml are absolute paths and modification
-is needed in order for them to suit the user's computer.
+Important info : Dataset is not contained in this repo. 'Runs' Folder contains data from the training of the model
 
               
               
